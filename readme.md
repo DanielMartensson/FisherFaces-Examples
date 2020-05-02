@@ -35,7 +35,7 @@ It's very few images in every database and that's the point by using Fisherfaces
 | IMPA-FACE3D                             | 74.17%                 | 74.44%       | Different face expressions + few different camera angles   |
 | Yale Database                           | 98.00%                 | 78.00%       | Different face expressions + few different lightning images| 
 | Jaffed Database                         | 100.00%                | 99.00%       | Different face expressions                                 |
-| FEI Face Database                       | 93.00%                 | 11.00%       | Smile and neural face only                                 |
+| FEI Face Database                       | 93.00%                 | 11.00%       | Smile and neutral face only                                 |
 | IMPA-FACE3D – No different camera angles| 93.33%                 | 90.83%       | Different face expressions and removed the camera angles   |
 
 # Conclusion
